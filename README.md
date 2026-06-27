@@ -113,25 +113,6 @@ The system demonstrated reliable light detection up to **17 cm**, with white LED
 
 ---
 
-## 📂 Project Structure
-
-```
-LiFi-Brake-Alert-System/
-│
-├── Transmitter/
-│   └── transmitter.ino
-│
-├── Receiver/
-│   └── receiver.ino
-│
-├── Circuit_Diagrams/
-│
-├── Images/
-│
-├── README.md
-│
-└── LICENSE
-```
 
 ---
 
